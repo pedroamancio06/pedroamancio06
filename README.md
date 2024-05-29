@@ -2,7 +2,6 @@
 
 💻 Futuro Desenvolvedor Full-Stack </br>
 🎓 3º semestre FIAP </br>
-❤️ Programação 
 
 &nbsp;
 
